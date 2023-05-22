@@ -1,0 +1,16 @@
+
+#maindiv{
+    z-index: 0;
+    margin-top: 20px;
+    background-color: #212529;
+    color: white;
+    position: fixed;
+    opacity: 0.9;
+    bottom: 0px;
+    width:100%
+}
+
+.abc{
+    width: 50%;
+    font-size: 24px;
+}
